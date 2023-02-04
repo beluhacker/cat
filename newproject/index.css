@@ -1,0 +1,25 @@
+/* Color palette:
+#e95e51
+#f4debc
+#f0b965
+#ef8c22
+#f26a22 
+*/
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Roboto&display=swap');
+
+body {
+    font-family: 'itim', sans-serif;
+    background-color:#f4debc;
+}
+header {
+    text-align: center;
+    color:#e95e51;
+}
+.card {
+    background-color:#f0b965;
+    border-radius: 8px;
+    color: white;
+}
+.image p {
+    text-align: center;
+}
